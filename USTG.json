@@ -1,0 +1,7 @@
+{
+    "name": "USTG",
+    "description": "Over-collateralized stablecoin built by TonStable",
+    "symbol": "USTG",
+    "decimals": 9,
+    "image": "https://www.svgrepo.com/download/282230/tuna.svg"
+}
